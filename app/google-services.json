@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "147448503829",
+    "firebase_url": "https://pfdam2.firebaseio.com",
+    "project_id": "pfdam2",
+    "storage_bucket": "pfdam2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147448503829:android:325702ad3b6f86b86eb81c",
+        "android_client_info": {
+          "package_name": "com.example.pfdam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147448503829-1jolqbnbnmvfo6k11mqbeu3jgpus21fv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pfdam2",
+            "certificate_hash": "a6dcab8c651ee49e3eed39b023e7e448f8cd7e76"
+          }
+        },
+        {
+          "client_id": "147448503829-9lkuf85ekqf4d1l8jhajp8lf4inucqs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ97Di68kcFxDXlT03TYP21atdPyeH8RA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147448503829-9lkuf85ekqf4d1l8jhajp8lf4inucqs9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
